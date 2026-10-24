@@ -1,10 +1,13 @@
 
 # Part 1
 Microsoft Outlook
+
 outlook.live.com
-Inbox Sorting
-Email Filtering (Rules)
-Email Flagging
+
+Things being tested:
+- Inbox Sorting
+- Email Filtering (Rules)
+- Email Flagging
 
 
 # Part 2
